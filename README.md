@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piganoemi
 - 👀 I’m interested in human genetic diversity
-- :woman_scientist: I’m currently a PhD Student in Genomics at the University of Leicester (UK)
+- :woman_technologist: I’m currently a PhD Student in Genomics at the University of Leicester (UK)
 - 📫 How to reach me: nnp5@leicester.ac.uk
 - :spider_web::world_map: My website to connect worldwide is in progress. I hope to be able to share it with you soon!
 
